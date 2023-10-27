@@ -1,6 +1,0 @@
-## Changes
-
-## 🚀 Features
-
-- feat: add user prune functionality @Tengizo (#43)
-
