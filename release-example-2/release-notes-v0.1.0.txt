@@ -1,8 +1,0 @@
-## Changes
-
-- fix: kaxa kaladze @Tengizo (#1)
-
-## 🐛 Bug Fixes
-
-- fix: fixed diffetrent parts of the app 2 @Tengizo (#2)
-
