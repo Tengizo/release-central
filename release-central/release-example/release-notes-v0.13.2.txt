@@ -1,6 +1,9 @@
 ## Changes
 
 - build: optimized docker image build @Tengizo (#25)
+- - build: optimized docker image build @Tengizo (#25)
+- - build: optimized docker image build @Tengizo (#25)
+- - build: optimized docker image build @Tengizo (#25)
 
 ## 🚀 Features
 
